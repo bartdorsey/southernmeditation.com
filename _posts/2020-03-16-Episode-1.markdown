@@ -1,23 +1,17 @@
 ---
-title:  "Episode Title Goes Here"
+title:  "Porch Swing"
 layout: post
-date:   2019-03-16
+date:   2019-03-18
 categories: podcast
-tags:
-- tagone
-- tagtwo
-- tagthree
 permalink: /episodes/1/
-image: /assets/posts/Awesome-Podcast-Art.jpg
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet justo scelerisque, viverra felis eget, pretium risus. Vestibulum imperdiet nulla a hendrerit tincidunt. Aenean mi leo, cursus vel leo sed, finibus faucibus lacus. Praesent non laoreet diam, a consectetur nulla. Maecenas nec rutrum justo. Pellentesque laoreet mauris sed cursus tempus. Ut convallis purus vitae ligula egestas, vitae ornare diam euismod. Vestibulum sodales ex id nibh consequat, ut pulvinar erat commodo. Sed metus erat, consequat quis semper bibendum, tempor vel mass
-podcast_link: http://traffic.libsyn.com/podcast/filename.mp3
-podcast_file_size: 13.7 MB
-podcast_duration: "14:02"
-podcast_length: 13654375
-podcast_guid: ?p=866
+image: /assets/images/Podcast-Artwork.jpg
+excerpt: Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
+podcast_link: https://f001.backblazeb2.com/file/southernmeditation/Porch+Swing.mp3
+podcast_file_size: 11 MB
+podcast_duration: "00:10:55"
+podcast_length: 10968310
+podcast_guid: ?p=1
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet justo scelerisque, viverra felis eget, pretium risus. Vestibulum imperdiet nulla a hendrerit tincidunt. Aenean mi leo, cursus vel leo sed, finibus faucibus lacus. Praesent non laoreet diam, a consectetur nulla. Maecenas nec rutrum justo. Pellentesque laoreet mauris sed cursus tempus. Ut convallis purus vitae ligula egestas, vitae ornare diam euismod. Vestibulum sodales ex id nibh consequat, ut pulvinar erat commodo. Sed metus erat, consequat quis semper bibendum, tempor vel massa
+Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet justo scelerisque, viverra felis eget, pretium risus. Vestibulum imperdiet nulla a hendrerit tincidunt. Aenean mi leo, cursus vel leo sed, finibus faucibus lacus. Praesent non laoreet diam, a consectetur nulla. Maecenas nec rutrum justo. Pellentesque laoreet mauris sed cursus tempus. Ut convallis purus vitae ligula egestas, vitae ornare diam euismod. Vestibulum sodales ex id nibh consequat, ut pulvinar erat commodo. Sed metus erat, consequat quis semper bibendum, tempor vel massa
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet justo scelerisque, viverra felis eget, pretium risus. Vestibulum imperdiet nulla a hendrerit tincidunt. Aenean mi leo, cursus vel leo sed, finibus faucibus lacus. Praesent non laoreet diam, a consectetur nulla. Maecenas nec rutrum justo. Pellentesque laoreet mauris sed cursus tempus. Ut convallis purus vitae ligula egestas, vitae ornare diam euismod. Vestibulum sodales ex id nibh consequat, ut pulvinar erat commodo. Sed metus erat, consequat quis semper bibendum, tempor vel massa
