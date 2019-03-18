@@ -43,15 +43,15 @@ permalink: /podcast/
 #   - vendor/gems/
 #   - vendor/ruby/
 podcast_url: http://southernmeditation/
-podcast_album_art: /assets/base/Album-Art.png
+podcast_album_art: /assets/images/Podcast-Artwork.jpg
 podcast_title: Southern Meditation
-podcast_owner: Iona Dorsey
+podcast_owner: Southern Meditation
 podcast_email: iona@southernmeditation.com
 podcast_category: 
 podcast_subcategory_one: 
 podcast_subcategory_two: 
 podcast_explicit: "no"
-podcast_author: Iona Dorsey
+podcast_author: Southern Meditation
 podcast_description: 
 podcast_summary: 
 podcast_subtitle: 
