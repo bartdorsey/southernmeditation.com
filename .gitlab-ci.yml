@@ -17,5 +17,6 @@ prodbuild:
   stage: deploy
   script:
   - bundle exec jekyll build
+  - rsync --delete -rloDvP _site/ /var/www/southernmeditation.com
   only:
   - master
