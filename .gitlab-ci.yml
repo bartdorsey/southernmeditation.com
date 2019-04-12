@@ -1,3 +1,5 @@
+image: ruby:2.3
+
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
@@ -5,10 +7,16 @@ variables:
 before_script:
   - bundle install
 
-test:
+dev:
   stage: build
   script:
   - bundle exec jekyll build
   except:
   - master
 
+prod:
+  stage: build
+  script:
+  - bundle exec jekyll build
+  only:
+  - master
