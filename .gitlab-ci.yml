@@ -7,14 +7,21 @@ variables:
 before_script:
   - bundle install
 
-dev:
+dev-build:
   stage: build
   script:
   - bundle exec jekyll build
   except:
   - master
 
-prod:
+dev-deploy:
+  stage: deploy
+  script: 
+  - rsync --delete -avP _site/ /var/www/dev.southernmeditation.com
+  except:
+  - master
+
+prod-build:
   stage: build
   script:
   - bundle exec jekyll build
