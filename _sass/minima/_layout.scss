@@ -299,3 +299,75 @@
     height: 30px;
     width: 100%;
 }
+
+@mixin button($bgcolor, $color) {
+  background-color: $bgcolor;
+  color: $color;
+  border-radius: 15px;
+  padding: 5px 10px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+
+.button-bar {
+  padding: $spacing-unit/2 0 0 0;
+  flex: 1;
+  &__subscribe {
+    text-transform: uppercase;
+    color: $grey-color;
+    font-family: sans-serif;
+  }
+  &__button-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 10px 0;
+    @include media-query($on-laptop) {
+      flex-direction: column;
+    }
+  }
+  &__subscribe-buttons {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0 10px 0 0;
+      @include media-query($on-palm) {
+        margin: 5px 0;
+      }
+    }
+    @include media-query($on-palm) {
+      flex-direction: column;
+    }
+  }
+  &__rss-button {
+    a {
+      @include button(orange, white);
+    }
+  }
+  &__itunes-button {
+    display: none;
+    a {
+      @include button(#b93ddf, white);
+    }
+  }
+  &__overcast-button {
+    display: none;
+    a {
+      @include button(#fc7e10, white);
+    }
+  }
+  &__patreon {
+    @include media-query($on-palm) {
+      margin: 5px 0;
+    }
+    a {
+      @include button(#e85b46, white);
+    }
+  }
+}
