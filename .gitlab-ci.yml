@@ -8,15 +8,9 @@ before_script:
   - bundle install
 
 test:
-  stage: develop
+  stage: build
   script:
   - bundle exec jekyll build
   except:
   - master
 
-pages:
-  stage: deploy
-  script:
-  - bundle exec jekyll build
-  only:
-  - master
