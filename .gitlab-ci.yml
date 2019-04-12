@@ -5,23 +5,16 @@ variables:
 before_script:
   - bundle install
 
-devbuild:
-  stage: test
+dev:
+  stage: deploy
   script:
   - bundle exec jekyll build
-  - ls -al _site
-  only:
-  - develop
-
-devdeploy:
-  stage: deploy
-  script: 
   - rsync --delete -avP _site/ /var/www/dev.southernmeditation.com
   only:
   - develop
 
 prodbuild:
-  stage: build
+  stage: deploy
   script:
   - bundle exec jekyll build
   only:
