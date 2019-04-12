@@ -1,15 +1,15 @@
 ---
 title:  "Porch Swing"
 layout: post
-date:   2019-03-18
+date:   2019-04-11
 categories: podcast
 permalink: /episodes/1/
 image: /assets/images/Podcast-Artwork.jpg
 excerpt: Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
-podcast_link: https://f001.backblazeb2.com/file/southernmeditation/Porch+Swing.mp3
-podcast_file_size: 16 MB
-podcast_duration: "00:15:27"
-podcast_length: 15325132
+podcast_link: https://f001.backblazeb2.com/file/southernmeditation/1-Porch_Swing.mp3
+podcast_file_size: 18 MB
+podcast_duration: "00:14:34"
+podcast_length: 17963799
 podcast_guid: ?p=2
 ---
 Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
