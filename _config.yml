@@ -42,7 +42,7 @@ permalink: /podcast/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-podcast_url: http://southernmeditation.com/
+podcast_url: https://southernmeditation.com/
 podcast_album_art: /assets/images/Podcast-Artwork.jpg
 podcast_title: Southern Meditation
 podcast_owner: Southern Meditation
