@@ -9,6 +9,7 @@ devbuild:
   stage: test
   script:
   - bundle exec jekyll build
+  - ls -al _site
   only:
   - develop
 
