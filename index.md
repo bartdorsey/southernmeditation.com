@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Southern Meditation
+title: A podcast to help you relax, sleep or focus deeply. 
 ---
 <a href="https://www.patreon.com/bePatron?u=8203968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
