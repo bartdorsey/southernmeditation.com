@@ -9,7 +9,7 @@ dev:
   stage: deploy
   script:
   - bundle exec jekyll build
-  - rsync --delete -avP _site/ /var/www/dev.southernmeditation.com
+  - rsync --delete -rltoDvP _site/ /var/www/dev.southernmeditation.com
   only:
   - develop
 
