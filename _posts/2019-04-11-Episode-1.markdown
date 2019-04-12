@@ -16,10 +16,12 @@ podcast_guid: ?p=2
 
 # <a href="https://www.patreon.com/bePatron?u=8203968" rel="payment">Support our show on Patreon</a>
 
+[Our intro music is "The Scent of Cedars" by Philipp Weigl](http://freemusicarchive.org/music/Philipp_Weigl/Sound-trax/Philipp_Weigl_-_03_-_The_Scent_of_Cedars)
+
 Thanks to the following for the audio used in this episode:
 
-Summer Night in Georgia by jymdavis on FreeSound <https://freesound.org/people/jymdavis/sounds/197328/>
+[Summer Night in Georgia by jymdavis on FreeSound](https://freesound.org/people/jymdavis/sounds/197328/)
 
-walking slowly on wooden floor 2 by FunkyFilms on FreeSound <https://freesound.org/people/FunkyFilms/sounds/338841/>
+[walking slowly on wooden floor 2 by FunkyFilms on FreeSound](<https://freesound.org/people/FunkyFilms/sounds/338841/)
 
-Ceiling Fan by zmadyun on FreeSound <https://freesound.org/people/zmadyun/sounds/343793/>
+[Ceiling Fan by zmadyun on FreeSound](https://freesound.org/people/zmadyun/sounds/343793/)
