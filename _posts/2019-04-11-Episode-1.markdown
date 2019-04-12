@@ -5,7 +5,7 @@ date:   2019-04-11
 categories: podcast
 permalink: /episodes/1/
 image: /assets/images/Podcast-Artwork.jpg
-excerpt: Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
+excerpt: Enjoy a relaxing slumber on the porch swing of an old house at sunset.
 podcast_link: https://f001.backblazeb2.com/file/southernmeditation/1-Porch_Swing.mp3
 podcast_file_size: 18 MB
 podcast_duration: "00:14:34"
@@ -13,7 +13,7 @@ podcast_duration_friendly: 14 minutes 34 seconds
 podcast_length: 17963799
 podcast_guid: ?p=2
 ---
-# Enjoy a relaxing slumber on the Porch Swing of an Old House at Sunset.
+# Enjoy a relaxing slumber on the porch swing of an old house at sunset.
 
 # <a href="https://www.patreon.com/bePatron?u=8203968" rel="payment">Support our show on Patreon</a>
 
