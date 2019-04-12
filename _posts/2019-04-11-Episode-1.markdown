@@ -12,4 +12,14 @@ podcast_duration: "00:14:34"
 podcast_length: 17963799
 podcast_guid: ?p=2
 ---
-Enjoy a relaxing nap on a Porch Swing of an Old House at Sunset.
+# Enjoy a relaxing slumber on the Porch Swing of an Old House at Sunset.
+
+# <a href="https://www.patreon.com/bePatron?u=8203968" rel="payment">Support our show on Patreon</a>
+
+Thanks to the following for the audio used in this episode:
+
+Summer Night in Georgia by jymdavis on FreeSound <https://freesound.org/people/jymdavis/sounds/197328/>
+
+walking slowly on wooden floor 2 by FunkyFilms on FreeSound <https://freesound.org/people/FunkyFilms/sounds/338841/>
+
+Ceiling Fan by zmadyun on FreeSound <https://freesound.org/people/zmadyun/sounds/343793/>
